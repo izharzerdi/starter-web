@@ -2,6 +2,7 @@
 This is a web project used for git and github practice.
 
 ## Purpose
+Used for understanding git fundamentals.
 
 ## Deployment
 
