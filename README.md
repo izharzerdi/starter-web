@@ -10,3 +10,6 @@ This project can be deployed in any server.
 
 ## How to achieve
 Practice, Practice, Practice
+
+###
+2012, @copyright
