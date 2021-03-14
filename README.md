@@ -1,5 +1,6 @@
 # Starter Web Repo
 This is a web project used for git and github practice.
+Thanking all students for feedback
 
 ## Purpose
 Used for understanding git fundamentals.
