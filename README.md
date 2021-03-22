@@ -1,7 +1,6 @@
 # Starter Web Repo
 This is a web project used for git and github practice.
-Thanking all students for feedback, Adding some more lines from myFearure
-branch.
+Thanking all students for feedback, urgent fix for production issue.
 
 ## Purpose
 Used for understanding git fundamentals.
