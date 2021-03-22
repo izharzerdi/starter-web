@@ -17,4 +17,4 @@ Practice, Practice, Practice
 By raising PR for git branch merge
 
 ###
-2012, @copyright
+2012 izhar, @copyright
